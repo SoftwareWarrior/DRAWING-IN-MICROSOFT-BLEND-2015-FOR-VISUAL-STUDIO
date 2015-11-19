@@ -1,0 +1,14 @@
+﻿<Page
+    x:Class="DrawingBlend.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:DrawingBlend"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+        <Path Data="M7.56911,72.2388 L230,75 C230,75 156.362,290.549 229.801,200.79 C231.413,198.82 275,135 275,135 C275,135 455,190 290,234.999 C125,279.999 -4.61358,373.179 275.387,378.179 C555.387,383.179 400.586,437.388 255.586,497.387 C110.586,557.387 329.801,540.787 40.0002,564.996 C-215.332,586.326 195,619.996 150,624.995 C105,629.995 112.569,612.234 137.569,627.234 C162.569,642.234 7.56911,72.2388 7.56911,72.2388 z" Fill="#FF35BF87" Margin="-44.61,80.948,-71.868,2.761" Stretch="Fill" Stroke="Black" UseLayoutRounding="False" d:LayoutOverrides="LeftPosition, RightPosition, TopPosition, BottomPosition"/>
+
+    </Grid>
+</Page>
